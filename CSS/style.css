@@ -1,0 +1,160 @@
+body {
+    
+	font-family: "Open Sans", "sans-serif";
+}
+
+
+#footer {
+
+	background-color: #0D2B55;
+	color: #FFFFFF;
+	padding-top: 3em;
+	padding-bottom:  3em;
+	text-align: center;
+	
+
+	
+}
+
+.card {
+
+  margin:  5px;
+
+}
+
+
+
+
+#social > a   {
+
+
+color: #FFFFFF;
+padding: 5px;
+font-size: 25px;
+
+
+
+
+}
+
+
+
+
+
+
+#social a:hover {
+
+	color: #aaaaaa ;
+	opacity: 0,10;
+
+}
+
+
+
+#wrapper {
+
+	background-image: url("../images/landing page 2.jpg");
+	height: 700px;
+	background-size: cover;
+	text-align: center;
+	padding-top: 150px;
+	color: white;
+	text-shadow: 2px, 2px, 5px, rgba(0,0,0, 0,5);
+
+}
+
+#wrapper h1 {
+
+	margin-bottom: 1em;
+	padding-top: 70px;
+}
+
+
+
+.feature p {
+
+	font-weight: 300px;
+	letter-spacing: 1px;
+}
+
+
+.feature i  {
+
+
+	font-size: 35px;
+	background-color: ;
+	padding: 10px;
+	
+
+}
+
+
+
+
+.teaser {
+
+padding-top: 3em;
+padding-bottom: 3em;
+text-align: center;
+background-color: #FFFFFF;
+
+
+}
+
+.teaser p i {
+
+
+	font-size: 15px;
+	letter-spacing: 0px;
+}
+
+
+
+
+
+#logo {
+
+	width: 150px;
+}
+
+#nav {
+  list-style-type: none;
+  display: inline;
+  
+
+}
+
+
+
+#nav > a {
+ 
+    background-color: #FFFFFF;
+    text-decoration: none;
+	color: #FFFFFF;
+	text-align: center;
+	display: inline;
+	
+
+}
+
+#nav > a:hover {
+
+	color: #FFFFFF ;
+	opacity: 0,10;
+
+}
+
+.navbar-transparent {
+	background-color: rgba(180, 44, 44, 0.9);
+	
+}
+
+
+#bloc {
+
+ text-align: justify;
+ letter-spacing: 1px;
+ 
+  background-color: #FFFFFF;
+
+}
